@@ -1,0 +1,27 @@
+body { Background-color: #228B22;}
+
+.title { 
+  	Text-align: center; 
+  	Text-decoration: underline; 
+  	Font-weight: 600;
+  	Font-size: 18px;
+  	Color: #333333;
+  	padding-bottom: 50px;}
+
+.spisok{ 
+  Float: left;
+  font-family: Impact, fantasy;
+  font-size: 13pt;
+  	padding: 20px;
+  	margin: 5px;
+  	height: 200px; }
+
+ .galery{
+ 	float: center;
+ 	 font-family: Impact, fantasy;
+ 	 font-size: 13pt;
+ 	margin-left: 700px;
+  	padding: 20px;
+  	margin: 5px;
+  	height: 500px;
+ } 	
